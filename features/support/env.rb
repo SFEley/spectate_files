@@ -3,7 +3,5 @@ require 'spectate_files'
 
 require 'spec/expectations'
 
-World do |world|
-  
-  world
-end
+
+
